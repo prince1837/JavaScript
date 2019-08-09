@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "name": "pratik",
+    "exercises": [
+      {
+        "id": 1,
+        "name": "anwar",
+        "detail": "muslim",
+        "submission": [
+          {
+            "id": 1,
+            "name": "anwar",
+            "detail": "muslim",
+            "content": "yes i am delar"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "ram",
+        "detail": "hello I am from ayodhya",
+        "submission": []
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "jagan",
+    "exercises": [
+      {
+        "id": 1,
+        "name": "rohit",
+        "detail": "hello I am from delhi",
+        "submission": []
+      },
+      {
+        "id": 2,
+        "name": "prince",
+        "detail": "hello I am from delhi",
+        "submission": [
+          {
+            "id": 1,
+            "name": "yogesh",
+            "detail": "lala",
+            "content": "i am a comman like you"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "satyam",
+        "detail": "hello I am from Noida",
+        "submission": []
+      },
+      {
+        "id": 4,
+        "name": "yogesh",
+        "detail": "hello I am from madhya pradesh",
+        "submission": []
+      },
+      {
+        "id": 5,
+        "name": "kapil",
+        "detail": "hello I am from Mp food and hygine",
+        "submission": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "aman",
+    "exercises": [
+      {
+        "id": 1,
+        "name": "pawan",
+        "detail": "hello I am from Rajasthan",
+        "submission": []
+      },
+      {
+        "id": 2,
+        "name": "praveen",
+        "detail": "hello I am from MP",
+        "submission": []
+      },
+      {
+        "id": 3,
+        "name": "hemant",
+        "detail": "hello I am from MP",
+        "submission": []
+      },
+      {
+        "id": 4,
+        "name": "mahendra",
+        "detail": "hello I am from MP",
+        "submission": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "my data",
+    "exercises": [
+      {
+        "id": 1,
+        "name": "rohit",
+        "detail": "hello I am from delhi",
+        "submission": []
+      },
+      {
+        "id": 2,
+        "name": "prince",
+        "detail": "hello I am from delhi",
+        "submission": []
+      },
+      {
+        "id": 3,
+        "name": "satyam",
+        "detail": "hello I am from Noida",
+        "submission": []
+      },
+      {
+        "id": 4,
+        "name": "yogesh",
+        "detail": "hello I am from madhya pradesh",
+        "submission": []
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "my data",
+    "exercises": [
+      {
+        "id": 1,
+        "name": "rohit",
+        "detail": "hello I am from delhi",
+        "submission": []
+      },
+      {
+        "id": 2,
+        "name": "prince",
+        "detail": "hello I am from delhi",
+        "submission": []
+      },
+      {
+        "id": 3,
+        "name": "satyam",
+        "detail": "hello I am from Noida",
+        "submission": []
+      },
+      {
+        "id": 4,
+        "name": "yogesh",
+        "detail": "hello I am from madhya pradesh",
+        "submission": []
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "lakhan",
+    "exercises": [
+      {
+        "id": 1,
+        "name": "yogesh",
+        "detail": "hello I am from madhya pradesh",
+        "submission": [
+          {
+            "id": 1,
+            "name": "satyam",
+            "detail": "hello I am from Noida",
+            "content": "i am a comman like you"
+          },
+          {
+            "id": 2,
+            "name": "narayan",
+            "detail": "hello I am from nagaland",
+            "content": "yes i am delar"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "satyam",
+        "detail": "hello I am from Noida",
+        "submission": []
+      }
+    ]
+  }
+]

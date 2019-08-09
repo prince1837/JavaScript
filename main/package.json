@@ -1,0 +1,16 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exp.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
