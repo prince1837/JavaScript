@@ -136,4 +136,35 @@
 //         // return data;
 //     }
 // })
-// // console.log(b)        
+// // console.log(b)
+
+
+
+// var list = [1,2,3,4,5,6,7,8,9,11]
+// var prime = list.map((item)=>{
+//     var flag = true
+//     for (var i=2; i<item; i++){
+//         if (item%i==0){
+//             flag=false
+//             break
+//         }
+//     }if (item==1){flag = false}
+//     if (flag){return item}
+// })
+// console.log(prime)
+
+
+
+
+// var list = [1,2,3,4,5,6,7,8,9,11]
+// var prime = list.map((item)=>{
+//     var counter = 0
+//     for (var i = 1; i<=item; i++){
+//         if (item%i===0){
+//             counter += 1
+//             if (counter==3){break}
+//         }
+//     }
+//     if (counter==2){return item}
+// })
+// console.log(prime)
