@@ -169,16 +169,47 @@
 
 
 
-const my_data=[{
-	"name":"Naresh",
-	"name1":"Sanjay",
-	"name2":"narayan",
-	"name3":"satayam",
-	"name4":"Nalla"
-}]
-for (i of my_data){
-	var data=Object.values(i)
-	if(data[0]=="N"){
-		console.log(i)
-	}
-}
+// const my_data=[{
+// 	"name":"Naresh",
+// 	"name1":"Sanjay",
+// 	"name2":"narayan",
+// 	"name3":"satayam",
+// 	"name4":"Nalla"
+// }]
+// for (i of my_data){
+// 	var data=Object.values(i)
+// 	if(data[0]=="N"){
+// 		console.log(i)
+// 	}
+// }
+
+
+
+
+// =================================================================================================================================
+
+
+// to count repeated words from list or Strings.
+// var sentence="Hello today is a beautiful day, clear sky. Definitely today is my lucky day"
+// function word_count(Words_group) {
+// 	var word_list=Words_group.split(' ')
+// 	var word_str=[]
+// 	var word_dict={}
+// 	for (i of word_list){
+// 		if (i.includes(',')){
+// 			var i=i.replace(',','')
+// 		}
+// 		if (i.includes('.')){
+// 			var i=i.replace('.','')
+// 		}
+// 		if (word_str.includes(i)){
+// 		word_dict[i]+=1
+// 		}
+// 		else{
+// 			word_str.push(i)
+// 			word_dict[i]=1
+// 		}
+// 	}
+// 	return(word_dict)
+// }
+// console.log(word_count(sentence))
